@@ -1,0 +1,96 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "title":"Honor 10 4/128GB Blue",
+      "display": {
+        "screenSize": 5.84,
+        "resolution": "2280 x 1080"
+      },
+      "memory": {
+        "ram": 4,
+        "internalStorage":128
+      },
+      "capacity": 3400,
+      "categoryId": 1,
+      "category": {
+        "id": 1,
+        "name": "Honor",
+        "os": "Android"
+      },
+      "price": 463.82,
+      "descriptionUrl":"https://rozetka.com.ua/honor_10_4_128gb_blue/p71913531/characteristics/",
+      "imageUrl": "https://i1.rozetka.ua/goods/10861095/honor_10_4_128gb_blue_images_10861095819.jpg"
+    },
+    {
+      "id": 2,
+      "title":"Honor 10 6/128GB Purple",
+      "display": {
+        "screenSize": 5.84,
+        "resolution": "2280 x 1080"
+      },
+      "memory": {
+        "ram": 6,
+        "internalStorage":128
+      },
+      "capacity": 3400,
+      "categoryId": 1,
+      "category": {
+        "id": 1,
+        "name": "Honor",
+        "os": "Android"
+      },
+      "price": 430.31,
+      "descriptionUrl":"https://rozetka.com.ua/honor_10_6_128gb_purple/p85803042/characteristics/",
+      "imageUrl": "https://i1.rozetka.ua/goods/12056280/honor_10_6_128gb_purple_images_12056280402.jpg"
+    },
+    {
+      "id": 3,
+      "title":"Honor V10 6/128GB Dual Black",
+      "display": {
+        "screenSize": 5.99,
+        "resolution": "2160 x 1080"
+      },
+      "memory": {
+        "ram": 6,
+        "internalStorage":128
+      },
+      "capacity": 3750,
+      "categoryId": 1,
+      "category": {
+        "id": 1,
+        "name": "Honor",
+        "os": "Android"
+      },
+      "price": 373.87,
+      "descriptionUrl":"https://rozetka.com.ua/honor_v10_6_128gb_dual_black/p72460083/characteristics/",
+      "imageUrl": "https://i2.rozetka.ua/goods/10915695/honor_v10_6_128gb_dual_black_images_10915695591.jpg"
+    },
+    {
+      "id": 4,
+      "title":"Honor Play 6/128GB Ultra Violet",
+      "display": {
+        "screenSize": 6.3,
+        "resolution": "2340 x 1080"
+      },
+      "memory": {
+        "ram": 6,
+        "internalStorage":128
+      },
+      "capacity": 3750,
+      "categoryId": 1,
+      "category": {
+        "id": 1,
+        "name": "Honor",
+        "os": "Android"
+      },
+      "price": 345.65,
+      "descriptionUrl":"https://rozetka.com.ua/honor_play_6_128gb_ultra_violet/p72452229/characteristics/",
+      "imageUrl": "https://i1.rozetka.ua/goods/10914256/copy_honor_play_4_64gb_ultra_violet_global_5c65454b0a94c_images_10914256539.jpg"
+    }
+
+    
+
+  ]
+
+}
