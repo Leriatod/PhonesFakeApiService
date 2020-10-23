@@ -14,7 +14,7 @@
         "id": 7,
         "name": "Realme"
       },
-	  "purchaseDate": 2020-05-22 00:00:00.000,
+	  "purchaseDate": "2020-05-22",
       "descriptionUrl":"https://rozetka.com.ua/realme_7_pro_8_128gb_mirror_blue/p254407693/characteristics/"
     },
     {
@@ -22,7 +22,7 @@
       "name":"Realme 6i 3/64GB Green",
       "price": 155.21,
 	  "contact" : {
-		"name":"Mary Williams"
+		"name":"Mary Williams",
 		"email":"mary.williams@gmail.com",
 		"phone":"+380 99-425-62-78"
 	  },
@@ -31,7 +31,7 @@
         "id": 7,
         "name": "Realme"
       },
-	  "purchaseDate": 2020-06-15 00:00:00.000,
+	  "purchaseDate": "2020-06-15",
       "descriptionUrl":"https://rozetka.com.ua/realme_6i_3_64gb_green/p210648175/characteristics/"
     },
     {
@@ -48,7 +48,7 @@
         "id": 7,
         "name": "Realme"
       },
-	  "purchaseDate": 2019-08-24 00:00:00.000,
+	  "purchaseDate": "2019-08-24",
       "descriptionUrl": "https://rozetka.com.ua/realme_2001000187034/p208539055/characteristics/"
     },
     {
@@ -65,7 +65,7 @@
         "id": 7,
         "name": "Realme"
       },
-	  "purchaseDate": 2020-08-24 00:00:00.000,
+	  "purchaseDate": "2020-08-24",
       "descriptionUrl":"https://rozetka.com.ua/realme_6_8_128gb_white/p210649429/characteristics/"
     },
 	{
@@ -82,7 +82,7 @@
         "id": 4,
         "name": "Apple"
       },
-	  "purchaseDate": 2020-02-14 00:00:00.000,
+	  "purchaseDate": "2020-02-14",
       "descriptionUrl":"https://rozetka.com.ua/apple_iphone_xs_64gb_space_gray/p172930640/characteristics/"
     },
 	{
@@ -99,7 +99,7 @@
         "id": 4,
         "name": "Apple"
       },
-	  "purchaseDate": 2020-09-11 00:00:00.000,
+	  "purchaseDate": "2020-09-11",
       "descriptionUrl":"https://rozetka.com.ua/apple_iphone_7_plus_32gb_rose_gold/p11256690/characteristics/"
     },
 	{
@@ -114,9 +114,9 @@
       "makerId": 2,
       "maker": {
         "id": 2,
-        "name": "Samsung",
+        "name": "Samsung"
       },
-	  "purchaseDate": 2019-11-24 00:00:00.000,
+	  "purchaseDate": "2019-11-24",
       "descriptionUrl":"https://rozetka.com.ua/samsung_galaxy_note_10_plus_12_256_gb_black_sm_n975fzkdsek/p109995004/characteristics/"
     },
 	{
@@ -131,9 +131,9 @@
 	  "makerId": 3,
       "maker": {
         "id": 3,
-        "name": "Huawei",
+        "name": "Huawei"
       },
-	  "purchaseDate": 2020-05-16 00:00:00.000,
+	  "purchaseDate": "2020-05-16",
       "descriptionUrl":"https://rozetka.com.ua/huawei_p30_aurora/p76639638/characteristics/"
     },
 	{
@@ -148,9 +148,9 @@
 	  "makerId": 3,
       "maker": {
         "id": 3,
-        "name": "Huawei",
+        "name": "Huawei"
       },
-	  "purchaseDate": 2019-12-27 00:00:00.000,
+	  "purchaseDate": "2019-12-27",
       "descriptionUrl":"https://rozetka.com.ua/huawei_p30_lite_4_128gb_black/p75759084/characteristics/"
     },
 	{
@@ -165,9 +165,9 @@
 	  "makerId": 3,
       "maker": {
         "id": 3,
-        "name": "Huawei",
+        "name": "Huawei"
       },
-	  "purchaseDate": 2019-10-13 00:00:00.000,
+	  "purchaseDate": "2019-10-13",
       "descriptionUrl":"https://rozetka.com.ua/huawei_y7_2019_blue/p70472396/characteristics/"
     }
   ],
@@ -193,9 +193,10 @@
 		"id":1,
 		"name": "Leanne Graham",
 		"email": "leanne.graham@gmail.com",
-		"phone": "+380 99-427-36-31",
+		"phone": "+380 99-427-36-31"
 	  },
       "price": 167.22,
+	  "date":"2019-07-14",
       "descriptionUrl":"https://allo.ua/ru/products/mobile/meizu-note-9-4-64gb-black.html?tab=specs",
       "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/3/3/33e1fb2f3e59e65f9ba6a7e953acab00_2.jpg"
     },
@@ -208,7 +209,7 @@
 		"ram": 6,
 		"internalStorage": 128,
 		"capacity": 3010,
-		"os": "Android",
+		"os": "Android"
 	  },  
       "makerId": 8,
       "maker": {
@@ -220,9 +221,10 @@
 		"id":2,
 		"name": "Ervin Howell",
 		"email": "Shanna@melissa.tv",
-		"phone": "+380 91-420-39-40",
+		"phone": "+380 91-420-39-40"
 	  },
       "price": 218.50,
+	  "date":"2020-05-24",
       "descriptionUrl":"https://allo.ua/ru/products/mobile/meizu-16-6-128gb-black_2.html?tab=specs",
       "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/f/d/fd85a112c60d9311650ad71506857a61_1_1.jpg"
     },
@@ -247,9 +249,10 @@
 		"id":3,
 		"name": "Clementine Bauch",
 		"email": "Nathan@yesenia.net",
-		"phone": "+380 97-521-11-50",
+		"phone": "+380 97-521-11-50"
 	  },
       "price": 77.51,
+	  "date":"2019-04-17",
       "descriptionUrl":"https://allo.ua/ru/products/mobile/meizu-c9-2-16gb-blue_1.html?tab=specs",
       "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/4/4/4444444_1_3_1.jpg"
     },
@@ -274,9 +277,10 @@
 		"id":4,
 		"name": "Patricia Lebsack",
 		"email": "Julianne.OConner@kory.org",
-		"phone": "+380 63-701-12-59",
+		"phone": "+380 63-701-12-59"
 	  },
       "price": 422.98,
+	  "date":"2020-09-15",
       "descriptionUrl":"https://allo.ua/ru/products/mobile/apple-iphone-12-64gb-black.html?tab=specs",
       "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/i/p/iphone-12-mini-black-select-2020_3.jpg"
     },
@@ -301,9 +305,10 @@
 		"id":5,
 		"name": "Chelsey Dietrich",
 		"email": "Lucio_Hettinger@annie.ca",
-		"phone": "+380 63-778-93-14",
+		"phone": "+380 63-778-93-14"
 	  },
       "price": 126.86,
+	  "date":"2020-01-25",
       "descriptionUrl":"https://allo.ua/ru/products/mobile/huawei-y7-2019-3-32-gb-aurora-blue-sinij.html?tab=specs",
       "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/y/_/y_7_blue_.jpg"
     },
@@ -328,9 +333,10 @@
 		"id":7,
 		"name": "Kurtis Weissnat",
 		"email": "Telly.Hoeger@billy.biz",
-		"phone": "+380 94-812-27-65",
+		"phone": "+380 94-812-27-65"
 	  },
       "price": 352.45,
+	  "date":"2020-02-13",
       "descriptionUrl":"https://allo.ua/ru/products/mobile/huawei-nova-5t-purple.html?tab=specs",
       "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/f/i/file_1343_8.jpg"
     }
