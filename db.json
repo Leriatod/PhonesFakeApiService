@@ -1,228 +1,340 @@
 {
-  "phones": [
+  "rozetkaPhones": [
     {
       "id": 1,
-      "name":"Honor 10 4/128GB Blue",
-      "display": {
-        "screenSize": 5.84,
-        "resolution": "2280 x 1080"
+      "name":"Realme 7 Pro 8/128GB Mirror Blue",
+      "price": 299.87,
+	  "contact": {
+		"name":"John Smith",
+		"email":"john.smith@gmail.com",
+		"phone":"+380 97 458-63-21"
+	  },
+	  "makerId": 7,
+      "maker": {
+        "id": 7,
+        "name": "Realme"
       },
-      "memory": {
-        "ram": 4,
-        "internalStorage":128
-      },
-      "capacity": 3400,
-      "categoryId": 1,
-      "category": {
-        "id": 1,
-        "name": "Honor",
-        "os": "Android"
-      },
-      "price": 463.82,
-      "descriptionUrl":"https://rozetka.com.ua/honor_10_4_128gb_blue/p71913531/characteristics/",
-      "imageUrl": "https://i1.rozetka.ua/goods/10861095/honor_10_4_128gb_blue_images_10861095819.jpg"
+	  "purchaseDate": 2020-05-22 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/realme_7_pro_8_128gb_mirror_blue/p254407693/characteristics/"
     },
     {
       "id": 2,
-      "name":"Honor 10 6/128GB Purple",
-      "display": {
-        "screenSize": 5.84,
-        "resolution": "2280 x 1080"
+      "name":"Realme 6i 3/64GB Green",
+      "price": 155.21,
+	  "contact" : {
+		"name":"Mary Williams"
+		"email":"mary.williams@gmail.com",
+		"phone":"+380 99-425-62-78"
+	  },
+	  "makerId": 7,
+      "maker": {
+        "id": 7,
+        "name": "Realme"
       },
-      "memory": {
-        "ram": 6,
-        "internalStorage":128
-      },
-      "capacity": 3400,
-      "categoryId": 1,
-      "category": {
-        "id": 1,
-        "name": "Honor",
-        "os": "Android"
-      },
-      "price": 430.31,
-      "descriptionUrl":"https://rozetka.com.ua/honor_10_6_128gb_purple/p85803042/characteristics/",
-      "imageUrl": "https://i1.rozetka.ua/goods/12056280/honor_10_6_128gb_purple_images_12056280402.jpg"
+	  "purchaseDate": 2020-06-15 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/realme_6i_3_64gb_green/p210648175/characteristics/"
     },
     {
       "id": 3,
-      "name":"Honor V10 6/128GB Dual Black",
-      "display": {
-        "screenSize": 5.99,
-        "resolution": "2160 x 1080"
+      "name":"Realme 6 Pro 8/128GB Red",
+      "price": 282.23,
+	  "contact": {
+		"name":"Bill Brown",
+		"email":"bill.brown@gmail.com",
+		"phone":"+380 95-486-24-77"
+	  },
+	  "makerId": 7,
+      "maker": {
+        "id": 7,
+        "name": "Realme"
       },
-      "memory": {
-        "ram": 6,
-        "internalStorage":128
-      },
-      "capacity": 3750,
-      "categoryId": 1,
-      "category": {
-        "id": 1,
-        "name": "Honor",
-        "os": "Android"
-      },
-      "price": 373.87,
-      "descriptionUrl":"https://rozetka.com.ua/honor_v10_6_128gb_dual_black/p72460083/characteristics/",
-      "imageUrl": "https://i2.rozetka.ua/goods/10915695/honor_v10_6_128gb_dual_black_images_10915695591.jpg"
+	  "purchaseDate": 2019-08-24 00:00:00.000,
+      "descriptionUrl": "https://rozetka.com.ua/realme_2001000187034/p208539055/characteristics/"
     },
     {
       "id": 4,
-      "name":"Honor Play 6/128GB Ultra Violet",
-      "display": {
-        "screenSize": 6.3,
-        "resolution": "2340 x 1080"
+      "name":"Realme 6 8/128GB White",
+	  "price": 236.36,
+	  "contact": {
+		"name":"Doug Anderson",
+		"email":"doug.anderson@gmail.com",
+		"phone":"+380 95-423-64-32"
+	  },
+      "makerId": 7,
+      "maker": {
+        "id": 7,
+        "name": "Realme"
       },
-      "memory": {
-        "ram": 6,
-        "internalStorage":128
-      },
-      "capacity": 3750,
-      "categoryId": 1,
-      "category": {
-        "id": 1,
-        "name": "Honor",
-        "os": "Android"
-      },
-      "price": 345.65,
-      "descriptionUrl":"https://rozetka.com.ua/honor_play_6_128gb_ultra_violet/p72452229/characteristics/",
-      "imageUrl": "https://i1.rozetka.ua/goods/10914256/copy_honor_play_4_64gb_ultra_violet_global_5c65454b0a94c_images_10914256539.jpg"
+	  "purchaseDate": 2020-08-24 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/realme_6_8_128gb_white/p210649429/characteristics/"
     },
 	{
       "id": 5,
       "name":"Apple iPhone Xs 64GB Space Gray (MT9E2)",
-      "display": {
-        "screenSize": 5.8,
-        "resolution": "2436 х 1125"
-      },
-      "memory": {
-        "ram": 4,
-        "internalStorage": 64
-      },
-      "capacity": 3000,
-      "categoryId": 4,
-      "category": {
-        "id": 4,
-        "name": "Apple",
-        "os": "IOS"
-      },
       "price": 740.32,
-      "descriptionUrl":"https://rozetka.com.ua/apple_iphone_xs_64gb_space_gray/p172930640/characteristics/",
-      "imageUrl": "https://i8.rozetka.ua/goods/16325894/copy_apple_iphone_xs_64_gb_space_gray_5e1d9b20d628e_images_16325894376.jpg"
+	  "contact": {
+		"name":"Tom Shelby",
+		"email":"tom.shelby@gmail.com",
+		"phone":"+380 99-557-24-31"
+	  },
+	  "makerId": 4,
+      "maker": {
+        "id": 4,
+        "name": "Apple"
+      },
+	  "purchaseDate": 2020-02-14 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/apple_iphone_xs_64gb_space_gray/p172930640/characteristics/"
     },
 	{
       "id": 6,
       "name":"Apple iPhone 7 Plus 32GB Rose Gold",
-      "display": {
-        "screenSize": 5.5,
-        "resolution": "1920 х 1080"
-      },
-      "memory": {
-        "ram": 3,
-        "internalStorage": 32
-      },
-      "capacity": 3000,
-      "categoryId": 4,
-      "category": {
-        "id": 4,
-        "name": "Apple",
-        "os": "IOS"
-      },
       "price": 433.60,
-      "descriptionUrl":"https://rozetka.com.ua/apple_iphone_7_plus_32gb_rose_gold/p11256690/characteristics/",
-      "imageUrl": "https://i1.rozetka.ua/goods/1757076/apple_iphone_7_plus_32gb_rose_gold_images_1757076595.jpg"
+	  "contact": {
+		"name":"David Davis",
+		"email":"david.davis@gmail.com",
+		"phone":"+380 95-421-11-20"
+	  },
+	  "makerId": 4,
+      "maker": {
+        "id": 4,
+        "name": "Apple"
+      },
+	  "purchaseDate": 2020-09-11 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/apple_iphone_7_plus_32gb_rose_gold/p11256690/characteristics/"
     },
 	{
       "id": 7,
       "name":"Samsung Galaxy Note 10+ 12/256GB Black (SM-N975FZKDSEK)",
-      "display": {
-        "screenSize": 6.8,
-        "resolution": "3040 х 1440"
-      },
-      "memory": {
-        "ram": 12,
-        "internalStorage": 256
-      },
-      "capacity": 4300,
-      "categoryId": 2,
-      "category": {
+      "price": 1022.36,
+	  "contact": {
+		"name":"Dan Garcia",
+		"email":"dan.garcia@gmail.com",
+		"phone":"+380 99-426-14-17"
+	  },
+      "makerId": 2,
+      "maker": {
         "id": 2,
         "name": "Samsung",
-        "os": "Android"
       },
-      "price": 1022.36,
-      "descriptionUrl":"https://rozetka.com.ua/samsung_galaxy_note_10_plus_12_256_gb_black_sm_n975fzkdsek/p109995004/characteristics/",
-      "imageUrl": "https://i1.rozetka.ua/goods/13272060/samsung_galaxy_note_10_plus_12_256_gb_black_sm_n975fzkdsek_images_13272060466.jpg"
+	  "purchaseDate": 2019-11-24 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/samsung_galaxy_note_10_plus_12_256_gb_black_sm_n975fzkdsek/p109995004/characteristics/"
     },
 	{
       "id": 8,
       "name":"Huawei P30 6/128GB Aurora",
-      "display": {
-        "screenSize": 6.1,
-        "resolution": "2340 x 1080"
-      },
-      "memory": {
-        "ram": 6,
-        "internalStorage": 128
-      },
-      "capacity": 3650,
-      "categoryId": 3,
-      "category": {
+      "price": 528.79,
+	  "contact": {
+		"name":"John Jones",
+		"email":"jon.jones@gmail.com",
+		"phone":"+380 95-400-19-13"
+	  },
+	  "makerId": 3,
+      "maker": {
         "id": 3,
         "name": "Huawei",
-        "os": "Android"
       },
-      "price": 528.79,
-      "descriptionUrl":"https://rozetka.com.ua/huawei_p30_aurora/p76639638/characteristics/",
-      "imageUrl": "https://i2.rozetka.ua/goods/11462172/huawei_p30_blue_images_11462172278.jpg"
+	  "purchaseDate": 2020-05-16 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/huawei_p30_aurora/p76639638/characteristics/"
     },
 	{
       "id": 9,
       "name":"Huawei P30 Lite 4/128GB Black",
-      "display": {
-        "screenSize": 6.15,
-        "resolution": "2312 x 1080"
-      },
-      "memory": {
-        "ram": 4,
-        "internalStorage": 128
-      },
-      "capacity": 3340,
-      "categoryId": 3,
-      "category": {
+      "price": 211.49,
+	  "contact": {
+		"name":"Hanry Wilson",
+		"email":"hanry.wilson@gmail.com",
+		"phone":"+380 99-772-22-45"
+	  },
+	  "makerId": 3,
+      "maker": {
         "id": 3,
         "name": "Huawei",
-        "os": "Android"
       },
-      "price": 211.49,
-      "descriptionUrl":"https://rozetka.com.ua/huawei_p30_lite_4_128gb_black/p75759084/characteristics/",
-      "imageUrl": "https://i1.rozetka.ua/goods/12177957/huawei_p30_lite_4_128gb_black_images_12177957184.jpg"
+	  "purchaseDate": 2019-12-27 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/huawei_p30_lite_4_128gb_black/p75759084/characteristics/"
     },
 	{
       "id": 10,
       "name":"Huawei Y7 2019 Blue",
-      "display": {
-        "screenSize": 6.26,
-        "resolution": "1520 x 720"
-      },
-      "memory": {
-        "ram": 3,
-        "internalStorage": 32
-      },
-      "capacity": 4000,
-      "categoryId": 3,
-      "category": {
+      "price": 126.88,
+	  "contact": {
+		"name":"Nick Rodriguez",
+		"email":"nick.rodriguez@gmail.com",
+		"phone":"+380 91-287-34-79"
+	  },
+	  "makerId": 3,
+      "maker": {
         "id": 3,
         "name": "Huawei",
-        "os": "Android"
       },
-      "price": 126.88,
-      "descriptionUrl":"https://rozetka.com.ua/huawei_y7_2019_blue/p70472396/characteristics/",
-      "imageUrl": "https://i2.rozetka.ua/goods/10804071/huawei_y7_2019_blue_images_10804071909.jpg"
+	  "purchaseDate": 2019-10-13 00:00:00.000,
+      "descriptionUrl":"https://rozetka.com.ua/huawei_y7_2019_blue/p70472396/characteristics/"
     }
-
-    
-
+  ],
+  "alloPhones": [
+	{
+      "id": 1,
+      "name":"Meizu Note 9 4/64Gb Black",
+	  "features": {
+		"screenDiagonal" : 6.2,
+		"resolution" : "2244 х 1080",
+		"ram": 4,
+		"internalStorage": 64,
+		"capacity": 4000,
+		"os": "Android"
+	  },
+      "makerId": 8,
+      "maker": {
+        "id": 8,
+        "name": "Meizu"
+      },
+	  "buyerId":1,
+	  "buyer": {
+		"id":1,
+		"name": "Leanne Graham",
+		"email": "leanne.graham@gmail.com",
+		"phone": "+380 99-427-36-31",
+	  },
+      "price": 167.22,
+      "descriptionUrl":"https://allo.ua/ru/products/mobile/meizu-note-9-4-64gb-black.html?tab=specs",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/3/3/33e1fb2f3e59e65f9ba6a7e953acab00_2.jpg"
+    },
+    {
+      "id": 2,
+      "name":"Meizu 16 6/128GB Black",
+	  "features": {
+		"screenDiagonal" : 6,
+		"resolution" : "2160 x 1080",
+		"ram": 6,
+		"internalStorage": 128,
+		"capacity": 3010,
+		"os": "Android",
+	  },  
+      "makerId": 8,
+      "maker": {
+        "id": 8,
+        "name": "Meizu"
+      },
+	  "buyerId":2,
+	  "buyer": {
+		"id":2,
+		"name": "Ervin Howell",
+		"email": "Shanna@melissa.tv",
+		"phone": "+380 91-420-39-40",
+	  },
+      "price": 218.50,
+      "descriptionUrl":"https://allo.ua/ru/products/mobile/meizu-16-6-128gb-black_2.html?tab=specs",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/f/d/fd85a112c60d9311650ad71506857a61_1_1.jpg"
+    },
+	{
+      "id": 3,
+      "name":"Meizu C9 2/16GB Blue",
+	  "features": {
+		"screenDiagonal" : 5.45,
+		"resolution" : "1440 x 720",
+		"ram": 2,
+		"internalStorage": 16,
+		"capacity": 3000,
+		"os": "Android"
+	  },
+      "makerId": 8,
+      "maker": {
+        "id": 8,
+        "name": "Meizu"
+      },
+	  "buyerId":3,
+	  "buyer": {
+		"id":3,
+		"name": "Clementine Bauch",
+		"email": "Nathan@yesenia.net",
+		"phone": "+380 97-521-11-50",
+	  },
+      "price": 77.51,
+      "descriptionUrl":"https://allo.ua/ru/products/mobile/meizu-c9-2-16gb-blue_1.html?tab=specs",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/4/4/4444444_1_3_1.jpg"
+    },
+	{
+      "id": 4,
+      "name":"Apple iPhone 12 64GB Black (MGJ53)",
+	  "features": {
+		"screenDiagonal" : 6.1,
+		"resolution" : "2532 x 1170",
+		"ram": 3,
+		"internalStorage": 64,
+		"capacity": 3000,
+		"os": "IOS"
+	  },
+      "makerId": 5,
+      "maker": {
+        "id": 5,
+        "name": "Apple"
+      },
+	  "buyerId":4,
+	  "buyer": {
+		"id":4,
+		"name": "Patricia Lebsack",
+		"email": "Julianne.OConner@kory.org",
+		"phone": "+380 63-701-12-59",
+	  },
+      "price": 422.98,
+      "descriptionUrl":"https://allo.ua/ru/products/mobile/apple-iphone-12-64gb-black.html?tab=specs",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/i/p/iphone-12-mini-black-select-2020_3.jpg"
+    },
+	{
+      "id": 5,
+      "name":"Huawei Y7 2019 3/32 GB Aurora Blue",
+	  "features": {
+		"screenDiagonal" : 6.26,
+		"resolution" : "1520x720",
+		"ram": 3,
+		"internalStorage": 32,
+		"capacity": 4000,
+		"os": "Android"
+	  },
+      "makerId": 2,
+      "maker": {
+        "id": 2,
+        "name": "Huawei"
+      },
+	  "buyerId":5,
+	  "buyer": {
+		"id":5,
+		"name": "Chelsey Dietrich",
+		"email": "Lucio_Hettinger@annie.ca",
+		"phone": "+380 63-778-93-14",
+	  },
+      "price": 126.86,
+      "descriptionUrl":"https://allo.ua/ru/products/mobile/huawei-y7-2019-3-32-gb-aurora-blue-sinij.html?tab=specs",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/y/_/y_7_blue_.jpg"
+    },
+	{
+      "id": 6,
+      "name":"Huawei Nova 5T 6/128GB Midsummer Purple (51094MGT)",
+	  "features": {
+		"screenDiagonal" : 6.26,
+		"resolution" : "2312 x 1080",
+		"ram": 6,
+		"internalStorage": 128,
+		"capacity": 3750,
+		"os": "Android"
+	  },
+      "makerId": 2,
+      "maker": {
+        "id": 2,
+        "name": "Huawei"
+      },
+	  "buyerId":7,
+	  "buyer": {
+		"id":7,
+		"name": "Kurtis Weissnat",
+		"email": "Telly.Hoeger@billy.biz",
+		"phone": "+380 94-812-27-65",
+	  },
+      "price": 352.45,
+      "descriptionUrl":"https://allo.ua/ru/products/mobile/huawei-nova-5t-purple.html?tab=specs",
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/602f0fa2c1f0d1ba5e241f914e856ff9/f/i/file_1343_8.jpg"
+    }
   ]
+  
 
 }
