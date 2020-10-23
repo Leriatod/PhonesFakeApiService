@@ -70,7 +70,7 @@
     },
 	{
       "id": 5,
-      "name":"Apple iPhone Xs 64GB Space Gray (MT9E2)",
+      "name":"Apple iPhone Xs 64GB Space Gray",
       "price": 740.32,
 	  "contact": {
 		"name":"Tom Shelby",
@@ -104,7 +104,7 @@
     },
 	{
       "id": 7,
-      "name":"Samsung Galaxy Note 10+ 12/256GB Black (SM-N975FZKDSEK)",
+      "name":"Samsung Galaxy Note 10+ 12/256GB Black",
       "price": 1022.36,
 	  "contact": {
 		"name":"Dan Garcia",
@@ -258,7 +258,7 @@
     },
 	{
       "id": 4,
-      "name":"Apple iPhone 12 64GB Black (MGJ53)",
+      "name":"Apple iPhone 12 64GB Black",
 	  "features": {
 		"screenDiagonal" : 6.1,
 		"resolution" : "2532 x 1170",
@@ -314,7 +314,7 @@
     },
 	{
       "id": 6,
-      "name":"Huawei Nova 5T 6/128GB Midsummer Purple (51094MGT)",
+      "name":"Huawei Nova 5T 6/128GB Midsummer Purple",
 	  "features": {
 		"screenDiagonal" : 6.26,
 		"resolution" : "2312 x 1080",
